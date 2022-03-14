@@ -8,7 +8,7 @@ function Home() {
     <Layout pageTitle="Homepage">
       <Image src="/hairpin.png" width={200} height={200} alt="profile" />
       <img src="/hairpin.png" style={{ width: 200, height: 200 }} alt="" />
-      <h1 className={styles['title-homepage']}>Welcome </h1>
+      <h1 className={styles['title-homepage']}>Welcome Yoo guys</h1>
     </Layout>
   );
 }
